@@ -3,8 +3,11 @@
 [![Chat](https://img.shields.io/badge/chat-join-green?style=for-the-badge&logo=Telegram&logoColor=green)](https://tatsumoto.neocities.org/blog/join-our-community)
 [![Support](https://img.shields.io/badge/support-developer-orange?style=for-the-badge&logo=Patreon&logoColor=orange)](https://tatsumoto.neocities.org/blog/donating-to-tatsumoto)
 
-#### *📣 updates every 3 hours*
-#### *👉 Browse catalog: [subtitles.ajatt.top](https://subtitles.ajatt.top/)*
+Archive. Created on 09 jan 2026.
+
+👉 [Main repo](https://github.com/Ajatt-Tools/kitsunekko-mirror/).
+
+****
 
 This repository contains `srt` and `ass` subtitle files for Japanese anime and TV shows.
 Additionally, it includes all subtitle files
