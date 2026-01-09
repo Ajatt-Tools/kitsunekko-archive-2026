@@ -5,7 +5,7 @@
 
 Archive. Created on 09 jan 2026.
 
-👉 [Main repo](https://github.com/Ajatt-Tools/kitsunekko-mirror/).
+#### 👉 [Main repo](https://github.com/Ajatt-Tools/kitsunekko-mirror/).
 
 ****
 
